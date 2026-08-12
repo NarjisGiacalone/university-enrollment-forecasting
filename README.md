@@ -153,15 +153,15 @@ COVID-related variables had relatively low importance in the Random Forest model
 
 ### Random Forest — Actual vs. Predicted Enrollment
 
-![Actual vs Predicted](images/Actual vs. Predicted Enrollment.png)
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
 ### Feature Importance
 
-![Feature Importance](images/Random Forest Feature Importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ### Enrollment Forecast
 
-![Enrollment Forecast](images/Business School Students Future predictions.png)
+![Enrollment Forecast](images/enrollment_forecast.png)
 
 ---
 
