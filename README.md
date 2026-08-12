@@ -211,6 +211,29 @@ Future analysis could improve model robustness by:
 
 ---
 
+## 👥 Project Team
+
+This project was completed as part of **MSBA 6620 – Business Data Mining & Machine Learning, Capstone Project at Elon University**.
+
+### Team Explorers
+
+- **Narjis Jebali**
+- **Simone Royal**
+- **Sumeyye Pakdil**
+- **Ananya Agrawal**
+
+**Professor:** Su Dong
+
+**Completed:** March 2025
+
+---
+
+## 📄 Full Report
+
+The complete capstone report, including the methodology, data preparation, statistical testing, model development, visualizations, and findings, is available in the `report` folder.
+
+---
+
 ## 📁 Repository Structure
 
 ```text
