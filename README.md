@@ -248,5 +248,4 @@ The complete capstone report, including the methodology, data preparation, stati
 │   └── Random Forest Feature Importance.png
 ├── report/
 │   └── capstone_report.pdf
-├── requirements.txt
 └── README.md
